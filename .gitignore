@@ -19,3 +19,5 @@ web/sites/all/README.txt
 web/sites/all/modules/README.txt
 web/sites/all/themes/README.txt
 web/sites/all/modules/local/
+
+.DS_Store
