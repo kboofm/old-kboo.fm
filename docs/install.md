@@ -1,4 +1,13 @@
-# Site install
+# Site Install
+
+## Requirements
+
+- php
+- mysql
+- composer
+- drush
+
+## Install Drupal
 
 Install Drupal using "Minimal Install" profile. For that you have to create database, configure the site with the web server and install Drupal via the install url.
 
@@ -25,4 +34,10 @@ drush scr
 oo_spin_up/scripts/default-variables.php
 # Clear cache
 drush cc all
+```
+
+You will also need to update dependencies through [composer](http://getcomposer.org):
+
+```
+composer up
 ```

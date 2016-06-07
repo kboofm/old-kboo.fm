@@ -5,7 +5,7 @@ This are some instructions to aid in development, if you want to install and con
 
 ## Updating a module
 
-Note the modules are managed using composer, and we are making extensive use of Features. So, ideally you would generally
+Note the modules are managed using [composer](getcomposer.org), and we are making extensive use of Features. So, ideally you would generally
 - update composer
 - add a new feature for the Calendar and it's settings
 - update the environment set up feature so that it will cause Calendar to be enabled
