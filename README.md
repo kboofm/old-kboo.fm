@@ -1,3 +1,5 @@
+### This code is deprecated. Now using https://github.com/kboofm/kboo.fm
+
 We are Volunteer-Powered, Non-Commercial, Listener-Sponsored, Full-Strength Community Radio for Portland, Oregon, the Pacific Northwest, & the World!
 Frequencies:
 
